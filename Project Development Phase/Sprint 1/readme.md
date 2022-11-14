@@ -103,6 +103,6 @@ while True:
 ```
 
 ### Images :
-![OutputImg](./outputImg.png)
+![OutputImg](./OutputImg.png)
 
 ### Completion of Sprint 1
