@@ -4,7 +4,7 @@
 
 ## Team ID - PNT2022TMID35873
 
-### Sprint Goals :
+### Sprint Goal(s) :
 1. Initialization of Various APIs reuqired for the Project
 
 ### Code Flow :
