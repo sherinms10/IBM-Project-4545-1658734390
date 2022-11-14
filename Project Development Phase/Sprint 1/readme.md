@@ -7,9 +7,6 @@
 ### Sprint Goal(s) :
 1. Initialization of Various APIs reuqired for the Project
 
-### Code Flow :
-![codeFlow](./../../Project%20Design%20%26%20Planning/Project%20Design%20Phase%202/dataFlow.png)
-
 ### Program Code :
 
 #### [> weatherdata.py](./weatherdata.py)
@@ -106,6 +103,6 @@ while True:
 ```
 
 ### Images :
-![OutputImage](./outputImage.png)
+![OutputImg](./outputImg.png)
 
 ### Completion of Sprint 1
