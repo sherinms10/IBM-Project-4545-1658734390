@@ -14,6 +14,6 @@
 
 ### Project Development Phase :
 - [Sprint 01](./Project%20Development%20Phase/Sprint%201/readme.md)
-- [Sprint 02](./Project%20Development%20Phase/Sprint%202/Readme.md)
-- [Sprint 03](./Project%20Development%20Phase/Sprint%203/Readme.md)
-- [Sprint 04](./Project%20Development%20Phase/Sprint%204/Readme.md)
+- [Sprint 02](./Project%20Development%20Phase/Sprint%202/readme.md)
+- [Sprint 03](./Project%20Development%20Phase/Sprint%203/readme.md)
+- [Sprint 04](./Project%20Development%20Phase/Sprint%204/readme.md)
